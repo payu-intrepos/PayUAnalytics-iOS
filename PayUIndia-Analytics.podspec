@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
   s.description         = "Analytics SDK for iOS by PayU."
 
   s.source              = { :git => "https://github.com/payu-intrepos/PayUAnalytics-iOS.git", 
-                            :tag => "#{s.name}_#{s.version}"
+                            :tag => "#{s.version}"
                           }
   s.documentation_url   = "https://app.gitbook.com/@payumobile/s/sdk-integration/ios/core/core-sdk"
   s.platform            = :ios , "11.0"
