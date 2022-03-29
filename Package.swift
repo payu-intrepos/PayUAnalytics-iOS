@@ -5,13 +5,14 @@ import PackageDescription
 
 let package = Package(
     name: "PayUIndia-Analytics",
+    platforms: [.iOS(.v11)],
     products: [
         // Products define the executables and libraries a package produces, and make them visible to other packages.
         .library(
             name: "PayUIndia-Analytics",
-            targets: ["PayUIndia-Analytics"]),
+            targets: ["PayUAnalytics"]),
     ],
     targets: [
-            .binaryTarget(name: "PayUIndia-Analytics", path: "./PayUAnalytics.xcframework")
-        ]
+        .binaryTarget(name: "PayUAnalytics", path: "./PayUAnalytics.xcframework")
+    ]
 )
