@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
   s.documentation_url   = "https://app.gitbook.com/@payumobile/s/sdk-integration/ios/core/core-sdk"
   s.platform            = :ios , "12.0"
   s.vendored_frameworks = 'PayUAnalytics.xcframework'
-  s.dependency            'PayUIndia-NetworkReachability', '~> 2.0'
+  s.dependency            'PayUIndia-NetworkReachability', '~> 1.0'
 
 
 end
