@@ -3,11 +3,11 @@
 
 import PackageDescription
 
-let VERSION_NETWORK_REACHABILITY: PackageDescription.Version = "2.0.2"
+let VERSION_NETWORK_REACHABILITY: PackageDescription.Version = "2.1.0"
 
 let package = Package(
     name: "PayUIndia-Analytics",
-    platforms: [.iOS(.v12)],
+    platforms: [.iOS(.v13)],
     products: [
         // Products define the executables and libraries a package produces, and make them visible to other packages.
         .library(
@@ -18,6 +18,6 @@ let package = Package(
         .package(name: "PayUIndia-NetworkReachability", url: "https://github.com/payu-intrepos/PayUNetworkReachability-iOS.git", from: VERSION_NETWORK_REACHABILITY),
     ],
     targets: [
-        .binaryTarget(name: "PayUAnalytics", path: "./PayUAnalytics.xcframework")
+        .binaryTarget(name: "PayUAnalytics", path: "./PayUAnalyticsKit.xcframework")
     ]
 )
