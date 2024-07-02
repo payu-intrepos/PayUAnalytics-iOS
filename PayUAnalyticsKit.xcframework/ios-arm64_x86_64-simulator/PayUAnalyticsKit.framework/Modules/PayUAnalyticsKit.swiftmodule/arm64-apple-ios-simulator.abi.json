@@ -506,519 +506,9 @@
         "printedName": "PayUAnalyticsConfig",
         "children": [
           {
-            "kind": "Var",
-            "name": "ctAccountId",
-            "printedName": "ctAccountId",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "Swift.String?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "String",
-                    "printedName": "Swift.String",
-                    "usr": "s:SS"
-                  }
-                ],
-                "usr": "s:Sq"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "c:@M@PayUAnalyticsKit@objc(cs)PayUAnalyticsConfig(py)ctAccountId",
-            "mangledName": "$s16PayUAnalyticsKit0aB6ConfigC11ctAccountIdSSSgvp",
-            "moduleName": "PayUAnalyticsKit",
-            "declAttributes": [
-              "HasInitialValue",
-              "HasStorage",
-              "AccessControl",
-              "ObjC"
-            ],
-            "hasStorage": true,
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Optional",
-                    "printedName": "Swift.String?",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "String",
-                        "printedName": "Swift.String",
-                        "usr": "s:SS"
-                      }
-                    ],
-                    "usr": "s:Sq"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "c:@M@PayUAnalyticsKit@objc(cs)PayUAnalyticsConfig(im)ctAccountId",
-                "mangledName": "$s16PayUAnalyticsKit0aB6ConfigC11ctAccountIdSSSgvg",
-                "moduleName": "PayUAnalyticsKit",
-                "implicit": true,
-                "declAttributes": [
-                  "ObjC"
-                ],
-                "accessorKind": "get"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Set",
-                "printedName": "Set()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Optional",
-                    "printedName": "Swift.String?",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "String",
-                        "printedName": "Swift.String",
-                        "usr": "s:SS"
-                      }
-                    ],
-                    "usr": "s:Sq"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "c:@M@PayUAnalyticsKit@objc(cs)PayUAnalyticsConfig(im)setCtAccountId:",
-                "mangledName": "$s16PayUAnalyticsKit0aB6ConfigC11ctAccountIdSSSgvs",
-                "moduleName": "PayUAnalyticsKit",
-                "implicit": true,
-                "declAttributes": [
-                  "ObjC"
-                ],
-                "accessorKind": "set"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Modify",
-                "printedName": "Modify()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:16PayUAnalyticsKit0aB6ConfigC11ctAccountIdSSSgvM",
-                "mangledName": "$s16PayUAnalyticsKit0aB6ConfigC11ctAccountIdSSSgvM",
-                "moduleName": "PayUAnalyticsKit",
-                "implicit": true,
-                "accessorKind": "_modify"
-              }
-            ]
-          },
-          {
-            "kind": "Var",
-            "name": "ctPassCode",
-            "printedName": "ctPassCode",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "Swift.String?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "String",
-                    "printedName": "Swift.String",
-                    "usr": "s:SS"
-                  }
-                ],
-                "usr": "s:Sq"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "c:@M@PayUAnalyticsKit@objc(cs)PayUAnalyticsConfig(py)ctPassCode",
-            "mangledName": "$s16PayUAnalyticsKit0aB6ConfigC10ctPassCodeSSSgvp",
-            "moduleName": "PayUAnalyticsKit",
-            "declAttributes": [
-              "HasInitialValue",
-              "HasStorage",
-              "AccessControl",
-              "ObjC"
-            ],
-            "hasStorage": true,
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Optional",
-                    "printedName": "Swift.String?",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "String",
-                        "printedName": "Swift.String",
-                        "usr": "s:SS"
-                      }
-                    ],
-                    "usr": "s:Sq"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "c:@M@PayUAnalyticsKit@objc(cs)PayUAnalyticsConfig(im)ctPassCode",
-                "mangledName": "$s16PayUAnalyticsKit0aB6ConfigC10ctPassCodeSSSgvg",
-                "moduleName": "PayUAnalyticsKit",
-                "implicit": true,
-                "declAttributes": [
-                  "ObjC"
-                ],
-                "accessorKind": "get"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Set",
-                "printedName": "Set()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Optional",
-                    "printedName": "Swift.String?",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "String",
-                        "printedName": "Swift.String",
-                        "usr": "s:SS"
-                      }
-                    ],
-                    "usr": "s:Sq"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "c:@M@PayUAnalyticsKit@objc(cs)PayUAnalyticsConfig(im)setCtPassCode:",
-                "mangledName": "$s16PayUAnalyticsKit0aB6ConfigC10ctPassCodeSSSgvs",
-                "moduleName": "PayUAnalyticsKit",
-                "implicit": true,
-                "declAttributes": [
-                  "ObjC"
-                ],
-                "accessorKind": "set"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Modify",
-                "printedName": "Modify()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:16PayUAnalyticsKit0aB6ConfigC10ctPassCodeSSSgvM",
-                "mangledName": "$s16PayUAnalyticsKit0aB6ConfigC10ctPassCodeSSSgvM",
-                "moduleName": "PayUAnalyticsKit",
-                "implicit": true,
-                "accessorKind": "_modify"
-              }
-            ]
-          },
-          {
-            "kind": "Var",
-            "name": "initiatorIdentifier",
-            "printedName": "initiatorIdentifier",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "String",
-                "printedName": "Swift.String",
-                "usr": "s:SS"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "c:@M@PayUAnalyticsKit@objc(cs)PayUAnalyticsConfig(py)initiatorIdentifier",
-            "mangledName": "$s16PayUAnalyticsKit0aB6ConfigC19initiatorIdentifierSSvp",
-            "moduleName": "PayUAnalyticsKit",
-            "declAttributes": [
-              "HasStorage",
-              "AccessControl",
-              "ObjC"
-            ],
-            "hasStorage": true,
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "String",
-                    "printedName": "Swift.String",
-                    "usr": "s:SS"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "c:@M@PayUAnalyticsKit@objc(cs)PayUAnalyticsConfig(im)initiatorIdentifier",
-                "mangledName": "$s16PayUAnalyticsKit0aB6ConfigC19initiatorIdentifierSSvg",
-                "moduleName": "PayUAnalyticsKit",
-                "implicit": true,
-                "declAttributes": [
-                  "ObjC"
-                ],
-                "accessorKind": "get"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Set",
-                "printedName": "Set()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "String",
-                    "printedName": "Swift.String",
-                    "usr": "s:SS"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "c:@M@PayUAnalyticsKit@objc(cs)PayUAnalyticsConfig(im)setInitiatorIdentifier:",
-                "mangledName": "$s16PayUAnalyticsKit0aB6ConfigC19initiatorIdentifierSSvs",
-                "moduleName": "PayUAnalyticsKit",
-                "implicit": true,
-                "declAttributes": [
-                  "ObjC"
-                ],
-                "accessorKind": "set"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Modify",
-                "printedName": "Modify()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:16PayUAnalyticsKit0aB6ConfigC19initiatorIdentifierSSvM",
-                "mangledName": "$s16PayUAnalyticsKit0aB6ConfigC19initiatorIdentifierSSvM",
-                "moduleName": "PayUAnalyticsKit",
-                "implicit": true,
-                "accessorKind": "_modify"
-              }
-            ]
-          },
-          {
-            "kind": "Var",
-            "name": "isProduction",
-            "printedName": "isProduction",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Bool",
-                "printedName": "Swift.Bool",
-                "usr": "s:Sb"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "c:@M@PayUAnalyticsKit@objc(cs)PayUAnalyticsConfig(py)isProduction",
-            "mangledName": "$s16PayUAnalyticsKit0aB6ConfigC12isProductionSbvp",
-            "moduleName": "PayUAnalyticsKit",
-            "declAttributes": [
-              "HasStorage",
-              "AccessControl",
-              "ObjC"
-            ],
-            "hasStorage": true,
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Bool",
-                    "printedName": "Swift.Bool",
-                    "usr": "s:Sb"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "c:@M@PayUAnalyticsKit@objc(cs)PayUAnalyticsConfig(im)isProduction",
-                "mangledName": "$s16PayUAnalyticsKit0aB6ConfigC12isProductionSbvg",
-                "moduleName": "PayUAnalyticsKit",
-                "implicit": true,
-                "declAttributes": [
-                  "ObjC"
-                ],
-                "accessorKind": "get"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Set",
-                "printedName": "Set()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Bool",
-                    "printedName": "Swift.Bool",
-                    "usr": "s:Sb"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "c:@M@PayUAnalyticsKit@objc(cs)PayUAnalyticsConfig(im)setIsProduction:",
-                "mangledName": "$s16PayUAnalyticsKit0aB6ConfigC12isProductionSbvs",
-                "moduleName": "PayUAnalyticsKit",
-                "implicit": true,
-                "declAttributes": [
-                  "ObjC"
-                ],
-                "accessorKind": "set"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Modify",
-                "printedName": "Modify()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:16PayUAnalyticsKit0aB6ConfigC12isProductionSbvM",
-                "mangledName": "$s16PayUAnalyticsKit0aB6ConfigC12isProductionSbvM",
-                "moduleName": "PayUAnalyticsKit",
-                "implicit": true,
-                "accessorKind": "_modify"
-              }
-            ]
-          },
-          {
-            "kind": "Var",
-            "name": "type",
-            "printedName": "type",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "PayUAnalyticsType",
-                "printedName": "PayUAnalyticsKit.PayUAnalyticsType",
-                "usr": "c:@M@PayUAnalyticsKit@E@PayUAnalyticsType"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "c:@M@PayUAnalyticsKit@objc(cs)PayUAnalyticsConfig(py)type",
-            "mangledName": "$s16PayUAnalyticsKit0aB6ConfigC4typeAA0aB4TypeOvp",
-            "moduleName": "PayUAnalyticsKit",
-            "declAttributes": [
-              "HasStorage",
-              "AccessControl",
-              "ObjC"
-            ],
-            "hasStorage": true,
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "PayUAnalyticsType",
-                    "printedName": "PayUAnalyticsKit.PayUAnalyticsType",
-                    "usr": "c:@M@PayUAnalyticsKit@E@PayUAnalyticsType"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "c:@M@PayUAnalyticsKit@objc(cs)PayUAnalyticsConfig(im)type",
-                "mangledName": "$s16PayUAnalyticsKit0aB6ConfigC4typeAA0aB4TypeOvg",
-                "moduleName": "PayUAnalyticsKit",
-                "implicit": true,
-                "declAttributes": [
-                  "ObjC"
-                ],
-                "accessorKind": "get"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Set",
-                "printedName": "Set()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "PayUAnalyticsType",
-                    "printedName": "PayUAnalyticsKit.PayUAnalyticsType",
-                    "usr": "c:@M@PayUAnalyticsKit@E@PayUAnalyticsType"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "c:@M@PayUAnalyticsKit@objc(cs)PayUAnalyticsConfig(im)setType:",
-                "mangledName": "$s16PayUAnalyticsKit0aB6ConfigC4typeAA0aB4TypeOvs",
-                "moduleName": "PayUAnalyticsKit",
-                "implicit": true,
-                "declAttributes": [
-                  "ObjC"
-                ],
-                "accessorKind": "set"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Modify",
-                "printedName": "Modify()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:16PayUAnalyticsKit0aB6ConfigC4typeAA0aB4TypeOvM",
-                "mangledName": "$s16PayUAnalyticsKit0aB6ConfigC4typeAA0aB4TypeOvM",
-                "moduleName": "PayUAnalyticsKit",
-                "implicit": true,
-                "accessorKind": "_modify"
-              }
-            ]
-          },
-          {
             "kind": "Constructor",
             "name": "init",
-            "printedName": "init(ctAccountId:ctPassCode:initiatorIdentifier:isProduction:type:)",
+            "printedName": "init(ctAccountId:ctPassCode:initiatorIdentifier:url:isProduction:type:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -1064,6 +554,21 @@
               },
               {
                 "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
                 "name": "Bool",
                 "printedName": "Swift.Bool",
                 "hasDefaultArg": true,
@@ -1078,10 +583,10 @@
               }
             ],
             "declKind": "Constructor",
-            "usr": "c:@M@PayUAnalyticsKit@objc(cs)PayUAnalyticsConfig(im)initWithCtAccountId:ctPassCode:initiatorIdentifier:isProduction:type:",
-            "mangledName": "$s16PayUAnalyticsKit0aB6ConfigC11ctAccountId0E8PassCode19initiatorIdentifier12isProduction4typeACSSSg_AISSSbAA0aB4TypeOtcfc",
+            "usr": "c:@M@PayUAnalyticsKit@objc(cs)PayUAnalyticsConfig(im)initWithCtAccountId:ctPassCode:initiatorIdentifier:url:isProduction:type:",
+            "mangledName": "$s16PayUAnalyticsKit0aB6ConfigC11ctAccountId0E8PassCode19initiatorIdentifier3url12isProduction4typeACSSSg_AJSSAJSbAA0aB4TypeOtcfc",
             "moduleName": "PayUAnalyticsKit",
-            "objc_name": "initWithCtAccountId:ctPassCode:initiatorIdentifier:isProduction:type:",
+            "objc_name": "initWithCtAccountId:ctPassCode:initiatorIdentifier:url:isProduction:type:",
             "declAttributes": [
               "AccessControl",
               "ObjC"
@@ -1248,725 +753,382 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/NetworkLayer\/PayUAnalyticsURLRequestExecuter.swift",
-      "kind": "BooleanLiteral",
-      "offset": 409,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/NetworkLayer\/PayUAnalyticsURLRequestExecuter.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1298,
-      "length": 3,
-      "value": "200"
-    },
-    {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/NetworkLayer\/PayUAnalyticsURLRequestExecuter.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1306,
-      "length": 3,
-      "value": "300"
-    },
-    {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/NetworkLayer\/PayUAnalyticsURLRequestExecuter.swift",
-      "kind": "Array",
-      "offset": 1435,
-      "length": 2,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/NetworkLayer\/PayUAnalyticsURLRequestExecuter.swift",
+      "filePath": "\/Users\/amrendra.roy\/Documents\/GitLab_Projects\/COPro_update_analytics_CB\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/NetworkLayer\/PayUAnalyticsURLRequestExecuter.swift",
       "kind": "IntegerLiteral",
       "offset": 1789,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Utils\/PayUAnalyticsBooleanLock.swift",
+      "filePath": "\/Users\/amrendra.roy\/Documents\/GitLab_Projects\/COPro_update_analytics_CB\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Utils\/PayUAnalyticsBooleanLock.swift",
       "kind": "BooleanLiteral",
       "offset": 188,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/APILayer\/RequestBuilder\/PayUAnalyticsHeaderBuilder.swift",
-      "kind": "Dictionary",
-      "offset": 300,
-      "length": 3,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/APILayer\/RequestBuilder\/PayUAnalyticsHeaderBuilder.swift",
-      "kind": "StringLiteral",
-      "offset": 496,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/APILayer\/RequestBuilder\/PayUAnalyticsHeaderBuilder.swift",
-      "kind": "StringLiteral",
-      "offset": 585,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/PublicFiles\/PayUAnalytics.swift",
-      "kind": "StringLiteral",
-      "offset": 761,
-      "length": 18,
-      "value": "\"PayUAnalyticsKit\""
-    },
-    {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/PublicFiles\/PayUAnalytics.swift",
+      "filePath": "\/Users\/amrendra.roy\/Documents\/GitLab_Projects\/COPro_update_analytics_CB\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/PublicFiles\/PayUAnalytics.swift",
       "kind": "StringLiteral",
       "offset": 156,
       "length": 13,
       "value": "\"PayUAnalyticsKit.PayUAnalytics\""
     },
     {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
+      "filePath": "\/Users\/amrendra.roy\/Documents\/GitLab_Projects\/COPro_update_analytics_CB\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
       "kind": "StringLiteral",
       "offset": 189,
       "length": 47,
       "value": "\"The internet connection appears to be offline\""
     },
     {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
+      "filePath": "\/Users\/amrendra.roy\/Documents\/GitLab_Projects\/COPro_update_analytics_CB\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
       "kind": "StringLiteral",
       "offset": 286,
       "length": 7,
       "value": "\"en_US\""
     },
     {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
+      "filePath": "\/Users\/amrendra.roy\/Documents\/GitLab_Projects\/COPro_update_analytics_CB\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
       "kind": "StringLiteral",
       "offset": 330,
       "length": 21,
       "value": "\"yyyy-MM-dd HH:mm:ss\""
     },
     {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
+      "filePath": "\/Users\/amrendra.roy\/Documents\/GitLab_Projects\/COPro_update_analytics_CB\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
       "kind": "StringLiteral",
       "offset": 415,
       "length": 16,
       "value": "\"EventAnalytics\""
     },
     {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
+      "filePath": "\/Users\/amrendra.roy\/Documents\/GitLab_Projects\/COPro_update_analytics_CB\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
       "kind": "StringLiteral",
       "offset": 469,
       "length": 17,
       "value": "\"DeviceAnalytics\""
     },
     {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
+      "filePath": "\/Users\/amrendra.roy\/Documents\/GitLab_Projects\/COPro_update_analytics_CB\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
       "kind": "StringLiteral",
       "offset": 544,
       "length": 15,
       "value": "\"instrument_id\""
     },
     {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
+      "filePath": "\/Users\/amrendra.roy\/Documents\/GitLab_Projects\/COPro_update_analytics_CB\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
       "kind": "StringLiteral",
       "offset": 596,
       "length": 17,
       "value": "\"instrument_type\""
     },
     {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
+      "filePath": "\/Users\/amrendra.roy\/Documents\/GitLab_Projects\/COPro_update_analytics_CB\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
       "kind": "StringLiteral",
       "offset": 646,
       "length": 13,
       "value": "\"device_type\""
     },
     {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
+      "filePath": "\/Users\/amrendra.roy\/Documents\/GitLab_Projects\/COPro_update_analytics_CB\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
       "kind": "StringLiteral",
       "offset": 685,
       "length": 5,
       "value": "\"key\""
     },
     {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
+      "filePath": "\/Users\/amrendra.roy\/Documents\/GitLab_Projects\/COPro_update_analytics_CB\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
       "kind": "StringLiteral",
       "offset": 720,
       "length": 9,
       "value": "\"command\""
     },
     {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
+      "filePath": "\/Users\/amrendra.roy\/Documents\/GitLab_Projects\/COPro_update_analytics_CB\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
       "kind": "StringLiteral",
       "offset": 756,
       "length": 6,
       "value": "\"hash\""
     },
     {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
+      "filePath": "\/Users\/amrendra.roy\/Documents\/GitLab_Projects\/COPro_update_analytics_CB\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
       "kind": "StringLiteral",
       "offset": 796,
       "length": 13,
       "value": "\"referenceId\""
     },
     {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
+      "filePath": "\/Users\/amrendra.roy\/Documents\/GitLab_Projects\/COPro_update_analytics_CB\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
       "kind": "StringLiteral",
       "offset": 836,
       "length": 6,
       "value": "\"Date\""
     },
     {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
+      "filePath": "\/Users\/amrendra.roy\/Documents\/GitLab_Projects\/COPro_update_analytics_CB\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
       "kind": "StringLiteral",
       "offset": 871,
       "length": 8,
       "value": "\"status\""
     },
     {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
+      "filePath": "\/Users\/amrendra.roy\/Documents\/GitLab_Projects\/COPro_update_analytics_CB\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
       "kind": "StringLiteral",
       "offset": 908,
       "length": 8,
       "value": "\"result\""
     },
     {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
+      "filePath": "\/Users\/amrendra.roy\/Documents\/GitLab_Projects\/COPro_update_analytics_CB\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
       "kind": "StringLiteral",
       "offset": 943,
       "length": 6,
       "value": "\"data\""
     },
     {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
+      "filePath": "\/Users\/amrendra.roy\/Documents\/GitLab_Projects\/COPro_update_analytics_CB\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
       "kind": "StringLiteral",
       "offset": 975,
       "length": 5,
       "value": "\"msg\""
     },
     {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
+      "filePath": "\/Users\/amrendra.roy\/Documents\/GitLab_Projects\/COPro_update_analytics_CB\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
       "kind": "StringLiteral",
       "offset": 1004,
       "length": 3,
       "value": "\"d\""
     },
     {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
+      "filePath": "\/Users\/amrendra.roy\/Documents\/GitLab_Projects\/COPro_update_analytics_CB\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
       "kind": "StringLiteral",
       "offset": 1046,
       "length": 24,
       "value": "\"X-CleverTap-Account-Id\""
     },
     {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
+      "filePath": "\/Users\/amrendra.roy\/Documents\/GitLab_Projects\/COPro_update_analytics_CB\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
       "kind": "StringLiteral",
       "offset": 1107,
       "length": 22,
       "value": "\"X-CleverTap-Passcode\""
     },
     {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
+      "filePath": "\/Users\/amrendra.roy\/Documents\/GitLab_Projects\/COPro_update_analytics_CB\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
       "kind": "StringLiteral",
       "offset": 1163,
       "length": 14,
       "value": "\"Content-Type\""
     },
     {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
+      "filePath": "\/Users\/amrendra.roy\/Documents\/GitLab_Projects\/COPro_update_analytics_CB\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
       "kind": "StringLiteral",
       "offset": 1210,
       "length": 13,
       "value": "\"SDK version\""
     },
     {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
+      "filePath": "\/Users\/amrendra.roy\/Documents\/GitLab_Projects\/COPro_update_analytics_CB\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
       "kind": "StringLiteral",
       "offset": 1256,
       "length": 12,
       "value": "\"loggingSDK\""
     },
     {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
+      "filePath": "\/Users\/amrendra.roy\/Documents\/GitLab_Projects\/COPro_update_analytics_CB\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
       "kind": "StringLiteral",
       "offset": 1298,
       "length": 9,
       "value": "\"sdkTime\""
     },
     {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
+      "filePath": "\/Users\/amrendra.roy\/Documents\/GitLab_Projects\/COPro_update_analytics_CB\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
       "kind": "StringLiteral",
       "offset": 1341,
       "length": 14,
       "value": "\"merchant_key\""
     },
     {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
+      "filePath": "\/Users\/amrendra.roy\/Documents\/GitLab_Projects\/COPro_update_analytics_CB\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
       "kind": "StringLiteral",
       "offset": 1386,
       "length": 24,
       "value": "\"PayUAnalytic_PStorage_\""
     },
     {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
+      "filePath": "\/Users\/amrendra.roy\/Documents\/GitLab_Projects\/COPro_update_analytics_CB\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
       "kind": "StringLiteral",
       "offset": 1441,
       "length": 24,
       "value": "\"PayUAnalytic_TStorage_\""
     },
     {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
+      "filePath": "\/Users\/amrendra.roy\/Documents\/GitLab_Projects\/COPro_update_analytics_CB\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
       "kind": "StringLiteral",
       "offset": 1516,
       "length": 5,
       "value": "\"iOS\""
     },
     {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
+      "filePath": "\/Users\/amrendra.roy\/Documents\/GitLab_Projects\/COPro_update_analytics_CB\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
       "kind": "StringLiteral",
       "offset": 1547,
       "length": 3,
       "value": "\"2\""
     },
     {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
+      "filePath": "\/Users\/amrendra.roy\/Documents\/GitLab_Projects\/COPro_update_analytics_CB\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
       "kind": "StringLiteral",
       "offset": 1585,
       "length": 10,
       "value": "\"12345678\""
     },
     {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
+      "filePath": "\/Users\/amrendra.roy\/Documents\/GitLab_Projects\/COPro_update_analytics_CB\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
       "kind": "StringLiteral",
       "offset": 1629,
       "length": 33,
       "value": "\"application\/json; charset=utf-8\""
     },
     {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
+      "filePath": "\/Users\/amrendra.roy\/Documents\/GitLab_Projects\/COPro_update_analytics_CB\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
       "kind": "IntegerLiteral",
       "offset": 1694,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
+      "filePath": "\/Users\/amrendra.roy\/Documents\/GitLab_Projects\/COPro_update_analytics_CB\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
       "kind": "StringLiteral",
       "offset": 1755,
       "length": 14,
       "value": "\"Content-Type\""
     },
     {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
+      "filePath": "\/Users\/amrendra.roy\/Documents\/GitLab_Projects\/COPro_update_analytics_CB\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
       "kind": "StringLiteral",
       "offset": 1817,
       "length": 35,
       "value": "\"application\/x-www-form-urlencoded\""
     },
     {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
+      "filePath": "\/Users\/amrendra.roy\/Documents\/GitLab_Projects\/COPro_update_analytics_CB\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
       "kind": "StringLiteral",
       "offset": 1879,
       "length": 6,
       "value": "\"POST\""
     },
     {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
+      "filePath": "\/Users\/amrendra.roy\/Documents\/GitLab_Projects\/COPro_update_analytics_CB\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
       "kind": "StringLiteral",
       "offset": 1929,
       "length": 50,
       "value": "\"application\/x-www-form-urlencoded; charset=utf-8\""
     },
     {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
+      "filePath": "\/Users\/amrendra.roy\/Documents\/GitLab_Projects\/COPro_update_analytics_CB\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
       "kind": "StringLiteral",
       "offset": 2063,
       "length": 23,
       "value": "\"https:\/\/info.payu.in\/\""
     },
     {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
+      "filePath": "\/Users\/amrendra.roy\/Documents\/GitLab_Projects\/COPro_update_analytics_CB\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
       "kind": "StringLiteral",
       "offset": 2131,
       "length": 23,
       "value": "\"https:\/\/test.payu.in\/\""
     },
     {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
+      "filePath": "\/Users\/amrendra.roy\/Documents\/GitLab_Projects\/COPro_update_analytics_CB\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
       "kind": "StringLiteral",
       "offset": 2181,
       "length": 26,
       "value": "\"merchant\/MobileAnalytics\""
     },
     {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
+      "filePath": "\/Users\/amrendra.roy\/Documents\/GitLab_Projects\/COPro_update_analytics_CB\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
       "kind": "StringLiteral",
       "offset": 2242,
       "length": 39,
       "value": "\"https:\/\/in.api.clevertap.com\/1\/upload\""
     },
     {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
+      "filePath": "\/Users\/amrendra.roy\/Documents\/GitLab_Projects\/COPro_update_analytics_CB\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
       "kind": "StringLiteral",
       "offset": 2181,
       "length": 26,
       "value": "\"merchant\/MobileAnalytics\""
     },
     {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
+      "filePath": "\/Users\/amrendra.roy\/Documents\/GitLab_Projects\/COPro_update_analytics_CB\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
       "kind": "StringLiteral",
       "offset": 2242,
       "length": 39,
       "value": "\"https:\/\/in.api.clevertap.com\/1\/upload\""
     },
     {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
+      "filePath": "\/Users\/amrendra.roy\/Documents\/GitLab_Projects\/COPro_update_analytics_CB\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
       "kind": "StringLiteral",
       "offset": 2844,
       "length": 5,
       "value": "\"GET\""
     },
     {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
+      "filePath": "\/Users\/amrendra.roy\/Documents\/GitLab_Projects\/COPro_update_analytics_CB\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
       "kind": "StringLiteral",
       "offset": 2876,
       "length": 6,
       "value": "\"POST\""
     },
     {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/PublicFiles\/PayUAnalyticsConfig.swift",
+      "filePath": "\/Users\/amrendra.roy\/Documents\/GitLab_Projects\/COPro_update_analytics_CB\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/PublicFiles\/PayUAnalyticsConfig.swift",
       "kind": "IntegerLiteral",
       "offset": 189,
       "length": 14,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/PublicFiles\/PayUAnalyticsConfig.swift",
+      "filePath": "\/Users\/amrendra.roy\/Documents\/GitLab_Projects\/COPro_update_analytics_CB\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/PublicFiles\/PayUAnalyticsConfig.swift",
       "kind": "IntegerLiteral",
       "offset": 213,
       "length": 15,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/PublicFiles\/PayUAnalyticsConfig.swift",
-      "kind": "StringLiteral",
-      "offset": 322,
-      "length": 11,
-      "value": "\"clevertap\""
-    },
-    {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/PublicFiles\/PayUAnalyticsConfig.swift",
-      "kind": "StringLiteral",
-      "offset": 371,
-      "length": 16,
-      "value": "\"eventAnalytics\""
-    },
-    {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/PublicFiles\/PayUAnalyticsConfig.swift",
-      "kind": "StringLiteral",
-      "offset": 426,
-      "length": 17,
-      "value": "\"deviceAnalytics\""
-    },
-    {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/PublicFiles\/PayUAnalyticsConfig.swift",
+      "filePath": "\/Users\/amrendra.roy\/Documents\/GitLab_Projects\/COPro_update_analytics_CB\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/PublicFiles\/PayUAnalyticsConfig.swift",
       "kind": "IntegerLiteral",
       "offset": 189,
       "length": 14,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/PublicFiles\/PayUAnalyticsConfig.swift",
+      "filePath": "\/Users\/amrendra.roy\/Documents\/GitLab_Projects\/COPro_update_analytics_CB\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/PublicFiles\/PayUAnalyticsConfig.swift",
       "kind": "IntegerLiteral",
       "offset": 213,
       "length": 15,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/PublicFiles\/PayUAnalyticsConfig.swift",
+      "filePath": "\/Users\/amrendra.roy\/Documents\/GitLab_Projects\/COPro_update_analytics_CB\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/PublicFiles\/PayUAnalyticsConfig.swift",
       "kind": "IntegerLiteral",
-      "offset": 758,
+      "offset": 756,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/PublicFiles\/PayUAnalyticsConfig.swift",
+      "filePath": "\/Users\/amrendra.roy\/Documents\/GitLab_Projects\/COPro_update_analytics_CB\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/PublicFiles\/PayUAnalyticsConfig.swift",
       "kind": "BooleanLiteral",
-      "offset": 921,
+      "offset": 947,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/PublicFiles\/PayUAnalyticsConfig.swift",
-      "kind": "StringLiteral",
-      "offset": 1231,
-      "length": 40,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/PublicFiles\/PayUAnalyticsConfig.swift",
-      "kind": "StringLiteral",
-      "offset": 1254,
-      "length": 1,
-      "value": "\"_\""
-    },
-    {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/PublicFiles\/PayUAnalyticsConfig.swift",
-      "kind": "StringLiteral",
-      "offset": 1270,
-      "length": 1,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/PublicFiles\/PayUAnalyticsConfig.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1351,
-      "length": 1,
-      "value": "2"
-    },
-    {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/PublicFiles\/PayUAnalyticsConfig.swift",
+      "filePath": "\/Users\/amrendra.roy\/Documents\/GitLab_Projects\/COPro_update_analytics_CB\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/PublicFiles\/PayUAnalyticsConfig.swift",
       "kind": "StringLiteral",
       "offset": 482,
       "length": 19,
       "value": "\"PayUAnalyticsKit.PayUAnalyticsConfig\""
-    },
-    {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Manager\/PayUAnalyticsDataManager.swift",
-      "kind": "Array",
-      "offset": 1403,
-      "length": 2,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Manager\/PayUAnalyticsDataManager.swift",
-      "kind": "Array",
-      "offset": 1476,
-      "length": 2,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/APILayer\/RequestBuilder\/PayUAnalyticsURLRequestBuilder.swift",
-      "kind": "IntegerLiteral",
-      "offset": 2609,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/APILayer\/RequestBuilder\/PayUAnalyticsURLRequestBuilder.swift",
-      "kind": "StringLiteral",
-      "offset": 2650,
-      "length": 50,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/APILayer\/RequestBuilder\/PayUAnalyticsURLRequestBuilder.swift",
-      "kind": "StringLiteral",
-      "offset": 2683,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/APILayer\/RequestBuilder\/PayUAnalyticsURLRequestBuilder.swift",
-      "kind": "StringLiteral",
-      "offset": 2686,
-      "length": 1,
-      "value": "\"?\""
-    },
-    {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/APILayer\/RequestBuilder\/PayUAnalyticsURLRequestBuilder.swift",
-      "kind": "StringLiteral",
-      "offset": 2699,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/APILayer\/RequestBuilder\/PayUAnalyticsURLRequestBuilder.swift",
-      "kind": "FloatLiteral",
-      "offset": 2908,
-      "length": 4,
-      "value": "60.0"
-    },
-    {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/APILayer\/RequestBuilder\/PayUAnalyticsParamsBuilder.swift",
-      "kind": "BooleanLiteral",
-      "offset": 891,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/APILayer\/RequestBuilder\/PayUAnalyticsParamsBuilder.swift",
-      "kind": "StringLiteral",
-      "offset": 1179,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/APILayer\/RequestBuilder\/PayUAnalyticsParamsBuilder.swift",
-      "kind": "StringLiteral",
-      "offset": 1274,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/APILayer\/RequestBuilder\/PayUAnalyticsParamsBuilder.swift",
-      "kind": "StringLiteral",
-      "offset": 1475,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Utils\/PayUAnalyticsUtils.swift",
-      "kind": "StringLiteral",
-      "offset": 307,
-      "length": 14,
-      "value": "\"Asia\/Kolkata\""
-    },
-    {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Utils\/PayUAnalyticsUtils.swift",
-      "kind": "Array",
-      "offset": 1333,
-      "length": 2,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Utils\/PayUAnalyticsUtils.swift",
-      "kind": "Array",
-      "offset": 1612,
-      "length": 2,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Utils\/PayUAnalyticsUtils.swift",
-      "kind": "StringLiteral",
-      "offset": 1904,
-      "length": 13,
-      "value": "\";\/?:@&=+$, \""
-    },
-    {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Utils\/PayUAnalyticsUtils.swift",
-      "kind": "Array",
-      "offset": 2156,
-      "length": 2,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Utils\/PayUAnalyticsUtils.swift",
-      "kind": "StringLiteral",
-      "offset": 2359,
-      "length": 10,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Utils\/PayUAnalyticsUtils.swift",
-      "kind": "StringLiteral",
-      "offset": 2368,
-      "length": 4,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Utils\/PayUAnalyticsUtils.swift",
-      "kind": "StringLiteral",
-      "offset": 2434,
-      "length": 10,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Utils\/PayUAnalyticsUtils.swift",
-      "kind": "StringLiteral",
-      "offset": 2443,
-      "length": 3,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Utils\/PayUAnalyticsUtils.swift",
-      "kind": "StringLiteral",
-      "offset": 2503,
-      "length": 13,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Utils\/PayUAnalyticsUtils.swift",
-      "kind": "StringLiteral",
-      "offset": 2509,
-      "length": 1,
-      "value": "\"=\""
-    },
-    {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Utils\/PayUAnalyticsUtils.swift",
-      "kind": "StringLiteral",
-      "offset": 2515,
-      "length": 23,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Utils\/PayUAnalyticsUtils.swift",
-      "kind": "StringLiteral",
-      "offset": 2537,
-      "length": 3,
-      "value": "\"&\""
-    },
-    {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Utils\/PayUAnalyticsUtils.swift",
-      "kind": "Array",
-      "offset": 2720,
-      "length": 2,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Utils\/PayUAnalyticsUtils.swift",
-      "kind": "StringLiteral",
-      "offset": 3381,
-      "length": 14,
-      "value": "\"yyMMddHHmmss\""
-    },
-    {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Utils\/PayUAnalyticsUtils.swift",
-      "kind": "StringLiteral",
-      "offset": 3416,
-      "length": 5,
-      "value": "\"iOS\""
-    },
-    {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Utils\/PayUAnalyticsUtils.swift",
-      "kind": "IntegerLiteral",
-      "offset": 3625,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Manager\/PayUAnalyticsManager.swift",
-      "kind": "Array",
-      "offset": 925,
-      "length": 2,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Manager\/PayUAnalyticsManager.swift",
-      "kind": "BooleanLiteral",
-      "offset": 2036,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Manager\/PayUAnalyticsManager.swift",
-      "kind": "IntegerLiteral",
-      "offset": 2215,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Manager\/PayUAnalyticsManager.swift",
-      "kind": "BooleanLiteral",
-      "offset": 2781,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/shubham.garg\/Documents\/payu\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Manager\/PayUAnalyticsManager.swift",
-      "kind": "BooleanLiteral",
-      "offset": 2886,
-      "length": 4,
-      "value": "true"
     }
   ]
 }
