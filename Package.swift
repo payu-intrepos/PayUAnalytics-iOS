@@ -3,7 +3,7 @@
 
 import PackageDescription
 
-let VERSION_NETWORK_REACHABILITY: PackageDescription.Version = "2.1.0"
+let VERSION_NETWORK_REACHABILITY: PackageDescription.Version = "2.1.1"
 
 let package = Package(
     name: "PayUIndia-Analytics",
