@@ -1610,340 +1610,403 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/amit.salaria\/Documents\/Gitlab\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/NetworkLayer\/PayUAnalyticsURLRequestExecuter.swift",
+      "filePath": "\/Users\/shubham.garg\/Documents\/PayU\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/NetworkLayer\/PayUAnalyticsURLRequestExecuter.swift",
       "kind": "IntegerLiteral",
       "offset": 1789,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/amit.salaria\/Documents\/Gitlab\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Utils\/PayUAnalyticsBooleanLock.swift",
+      "filePath": "\/Users\/shubham.garg\/Documents\/PayU\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Utils\/PayUAnalyticsBooleanLock.swift",
       "kind": "BooleanLiteral",
       "offset": 188,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/amit.salaria\/Documents\/Gitlab\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
+      "filePath": "\/Users\/shubham.garg\/Documents\/PayU\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
       "kind": "StringLiteral",
       "offset": 189,
       "length": 47,
       "value": "\"The internet connection appears to be offline\""
     },
     {
-      "filePath": "\/Users\/amit.salaria\/Documents\/Gitlab\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
+      "filePath": "\/Users\/shubham.garg\/Documents\/PayU\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
       "kind": "StringLiteral",
       "offset": 286,
       "length": 7,
       "value": "\"en_US\""
     },
     {
-      "filePath": "\/Users\/amit.salaria\/Documents\/Gitlab\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
+      "filePath": "\/Users\/shubham.garg\/Documents\/PayU\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
       "kind": "StringLiteral",
       "offset": 330,
       "length": 21,
       "value": "\"yyyy-MM-dd HH:mm:ss\""
     },
     {
-      "filePath": "\/Users\/amit.salaria\/Documents\/Gitlab\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
+      "filePath": "\/Users\/shubham.garg\/Documents\/PayU\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
       "kind": "StringLiteral",
       "offset": 415,
       "length": 16,
       "value": "\"EventAnalytics\""
     },
     {
-      "filePath": "\/Users\/amit.salaria\/Documents\/Gitlab\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
+      "filePath": "\/Users\/shubham.garg\/Documents\/PayU\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
       "kind": "StringLiteral",
       "offset": 469,
       "length": 17,
       "value": "\"DeviceAnalytics\""
     },
     {
-      "filePath": "\/Users\/amit.salaria\/Documents\/Gitlab\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
+      "filePath": "\/Users\/shubham.garg\/Documents\/PayU\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
       "kind": "StringLiteral",
       "offset": 544,
       "length": 15,
       "value": "\"instrument_id\""
     },
     {
-      "filePath": "\/Users\/amit.salaria\/Documents\/Gitlab\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
+      "filePath": "\/Users\/shubham.garg\/Documents\/PayU\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
       "kind": "StringLiteral",
       "offset": 596,
       "length": 17,
       "value": "\"instrument_type\""
     },
     {
-      "filePath": "\/Users\/amit.salaria\/Documents\/Gitlab\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
+      "filePath": "\/Users\/shubham.garg\/Documents\/PayU\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
       "kind": "StringLiteral",
       "offset": 646,
       "length": 13,
       "value": "\"device_type\""
     },
     {
-      "filePath": "\/Users\/amit.salaria\/Documents\/Gitlab\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
+      "filePath": "\/Users\/shubham.garg\/Documents\/PayU\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
       "kind": "StringLiteral",
       "offset": 685,
       "length": 5,
       "value": "\"key\""
     },
     {
-      "filePath": "\/Users\/amit.salaria\/Documents\/Gitlab\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
+      "filePath": "\/Users\/shubham.garg\/Documents\/PayU\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
       "kind": "StringLiteral",
       "offset": 720,
       "length": 9,
       "value": "\"command\""
     },
     {
-      "filePath": "\/Users\/amit.salaria\/Documents\/Gitlab\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
+      "filePath": "\/Users\/shubham.garg\/Documents\/PayU\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
       "kind": "StringLiteral",
       "offset": 756,
       "length": 6,
       "value": "\"hash\""
     },
     {
-      "filePath": "\/Users\/amit.salaria\/Documents\/Gitlab\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
+      "filePath": "\/Users\/shubham.garg\/Documents\/PayU\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
       "kind": "StringLiteral",
       "offset": 796,
       "length": 13,
       "value": "\"referenceId\""
     },
     {
-      "filePath": "\/Users\/amit.salaria\/Documents\/Gitlab\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
+      "filePath": "\/Users\/shubham.garg\/Documents\/PayU\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
       "kind": "StringLiteral",
       "offset": 836,
       "length": 6,
       "value": "\"Date\""
     },
     {
-      "filePath": "\/Users\/amit.salaria\/Documents\/Gitlab\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
+      "filePath": "\/Users\/shubham.garg\/Documents\/PayU\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
       "kind": "StringLiteral",
       "offset": 871,
       "length": 8,
       "value": "\"status\""
     },
     {
-      "filePath": "\/Users\/amit.salaria\/Documents\/Gitlab\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
+      "filePath": "\/Users\/shubham.garg\/Documents\/PayU\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
       "kind": "StringLiteral",
       "offset": 908,
       "length": 8,
       "value": "\"result\""
     },
     {
-      "filePath": "\/Users\/amit.salaria\/Documents\/Gitlab\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
+      "filePath": "\/Users\/shubham.garg\/Documents\/PayU\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
       "kind": "StringLiteral",
       "offset": 943,
       "length": 6,
       "value": "\"data\""
     },
     {
-      "filePath": "\/Users\/amit.salaria\/Documents\/Gitlab\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
+      "filePath": "\/Users\/shubham.garg\/Documents\/PayU\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
       "kind": "StringLiteral",
       "offset": 975,
       "length": 5,
       "value": "\"msg\""
     },
     {
-      "filePath": "\/Users\/amit.salaria\/Documents\/Gitlab\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
+      "filePath": "\/Users\/shubham.garg\/Documents\/PayU\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
       "kind": "StringLiteral",
       "offset": 1004,
       "length": 3,
       "value": "\"d\""
     },
     {
-      "filePath": "\/Users\/amit.salaria\/Documents\/Gitlab\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
+      "filePath": "\/Users\/shubham.garg\/Documents\/PayU\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
       "kind": "StringLiteral",
       "offset": 1046,
       "length": 24,
       "value": "\"X-CleverTap-Account-Id\""
     },
     {
-      "filePath": "\/Users\/amit.salaria\/Documents\/Gitlab\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
+      "filePath": "\/Users\/shubham.garg\/Documents\/PayU\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
       "kind": "StringLiteral",
       "offset": 1107,
       "length": 22,
       "value": "\"X-CleverTap-Passcode\""
     },
     {
-      "filePath": "\/Users\/amit.salaria\/Documents\/Gitlab\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
+      "filePath": "\/Users\/shubham.garg\/Documents\/PayU\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
       "kind": "StringLiteral",
       "offset": 1163,
       "length": 14,
       "value": "\"Content-Type\""
     },
     {
-      "filePath": "\/Users\/amit.salaria\/Documents\/Gitlab\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
+      "filePath": "\/Users\/shubham.garg\/Documents\/PayU\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
       "kind": "StringLiteral",
       "offset": 1210,
       "length": 13,
       "value": "\"SDK version\""
     },
     {
-      "filePath": "\/Users\/amit.salaria\/Documents\/Gitlab\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
+      "filePath": "\/Users\/shubham.garg\/Documents\/PayU\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
       "kind": "StringLiteral",
       "offset": 1256,
       "length": 12,
       "value": "\"loggingSDK\""
     },
     {
-      "filePath": "\/Users\/amit.salaria\/Documents\/Gitlab\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
+      "filePath": "\/Users\/shubham.garg\/Documents\/PayU\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
       "kind": "StringLiteral",
       "offset": 1298,
       "length": 9,
       "value": "\"sdkTime\""
     },
     {
-      "filePath": "\/Users\/amit.salaria\/Documents\/Gitlab\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
+      "filePath": "\/Users\/shubham.garg\/Documents\/PayU\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
       "kind": "StringLiteral",
       "offset": 1341,
       "length": 14,
       "value": "\"merchant_key\""
     },
     {
-      "filePath": "\/Users\/amit.salaria\/Documents\/Gitlab\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
+      "filePath": "\/Users\/shubham.garg\/Documents\/PayU\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
       "kind": "StringLiteral",
       "offset": 1386,
       "length": 24,
       "value": "\"PayUAnalytic_PStorage_\""
     },
     {
-      "filePath": "\/Users\/amit.salaria\/Documents\/Gitlab\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
+      "filePath": "\/Users\/shubham.garg\/Documents\/PayU\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
       "kind": "StringLiteral",
       "offset": 1441,
       "length": 24,
       "value": "\"PayUAnalytic_TStorage_\""
     },
     {
-      "filePath": "\/Users\/amit.salaria\/Documents\/Gitlab\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
+      "filePath": "\/Users\/shubham.garg\/Documents\/PayU\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
       "kind": "StringLiteral",
       "offset": 1516,
       "length": 5,
       "value": "\"iOS\""
     },
     {
-      "filePath": "\/Users\/amit.salaria\/Documents\/Gitlab\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
+      "filePath": "\/Users\/shubham.garg\/Documents\/PayU\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
       "kind": "StringLiteral",
       "offset": 1547,
       "length": 3,
       "value": "\"2\""
     },
     {
-      "filePath": "\/Users\/amit.salaria\/Documents\/Gitlab\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
+      "filePath": "\/Users\/shubham.garg\/Documents\/PayU\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
       "kind": "StringLiteral",
       "offset": 1585,
       "length": 10,
       "value": "\"12345678\""
     },
     {
-      "filePath": "\/Users\/amit.salaria\/Documents\/Gitlab\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
+      "filePath": "\/Users\/shubham.garg\/Documents\/PayU\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
       "kind": "StringLiteral",
       "offset": 1629,
       "length": 33,
       "value": "\"application\/json; charset=utf-8\""
     },
     {
-      "filePath": "\/Users\/amit.salaria\/Documents\/Gitlab\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
+      "filePath": "\/Users\/shubham.garg\/Documents\/PayU\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
       "kind": "IntegerLiteral",
       "offset": 1694,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/amit.salaria\/Documents\/Gitlab\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
+      "filePath": "\/Users\/shubham.garg\/Documents\/PayU\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
       "kind": "StringLiteral",
       "offset": 1755,
       "length": 14,
       "value": "\"Content-Type\""
     },
     {
-      "filePath": "\/Users\/amit.salaria\/Documents\/Gitlab\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
+      "filePath": "\/Users\/shubham.garg\/Documents\/PayU\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
       "kind": "StringLiteral",
       "offset": 1817,
       "length": 35,
       "value": "\"application\/x-www-form-urlencoded\""
     },
     {
-      "filePath": "\/Users\/amit.salaria\/Documents\/Gitlab\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
+      "filePath": "\/Users\/shubham.garg\/Documents\/PayU\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
       "kind": "StringLiteral",
       "offset": 1879,
       "length": 6,
       "value": "\"POST\""
     },
     {
-      "filePath": "\/Users\/amit.salaria\/Documents\/Gitlab\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
+      "filePath": "\/Users\/shubham.garg\/Documents\/PayU\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
       "kind": "StringLiteral",
       "offset": 1929,
       "length": 50,
       "value": "\"application\/x-www-form-urlencoded; charset=utf-8\""
     },
     {
-      "filePath": "\/Users\/amit.salaria\/Documents\/Gitlab\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
+      "filePath": "\/Users\/shubham.garg\/Documents\/PayU\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
       "kind": "StringLiteral",
       "offset": 2063,
       "length": 23,
       "value": "\"https:\/\/info.payu.in\/\""
     },
     {
-      "filePath": "\/Users\/amit.salaria\/Documents\/Gitlab\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
+      "filePath": "\/Users\/shubham.garg\/Documents\/PayU\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
       "kind": "StringLiteral",
       "offset": 2131,
       "length": 23,
       "value": "\"https:\/\/test.payu.in\/\""
     },
     {
-      "filePath": "\/Users\/amit.salaria\/Documents\/Gitlab\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
+      "filePath": "\/Users\/shubham.garg\/Documents\/PayU\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
       "kind": "StringLiteral",
       "offset": 2181,
       "length": 26,
       "value": "\"merchant\/MobileAnalytics\""
     },
     {
-      "filePath": "\/Users\/amit.salaria\/Documents\/Gitlab\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
+      "filePath": "\/Users\/shubham.garg\/Documents\/PayU\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
       "kind": "StringLiteral",
       "offset": 2242,
       "length": 39,
       "value": "\"https:\/\/in.api.clevertap.com\/1\/upload\""
     },
     {
-      "filePath": "\/Users\/amit.salaria\/Documents\/Gitlab\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
+      "filePath": "\/Users\/shubham.garg\/Documents\/PayU\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
       "kind": "StringLiteral",
       "offset": 2844,
       "length": 5,
       "value": "\"GET\""
     },
     {
-      "filePath": "\/Users\/amit.salaria\/Documents\/Gitlab\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
+      "filePath": "\/Users\/shubham.garg\/Documents\/PayU\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
       "kind": "StringLiteral",
       "offset": 2876,
       "length": 6,
       "value": "\"POST\""
     },
     {
-      "filePath": "\/Users\/amit.salaria\/Documents\/Gitlab\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/PublicFiles\/PayUAnalyticsConfig.swift",
+      "filePath": "\/Users\/shubham.garg\/Documents\/PayU\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
+      "kind": "Dictionary",
+      "offset": 3347,
+      "length": 2482,
+      "value": "[(\"mobilenumber\", \"\"), (\"mobileno\", \"\"), (\"phoneno\", \"\"), (\"phone\", \"\"), (\"mobile\", \"\"), (\"customerMobile\", \"\"), (\"phoneNumber\", \"\"), (\"phone_number\", \"\"), (\"mobileNumber\", \"\"), (\"mobile_number\", \"\"), (\"mobileNo\", \"\"), (\"mobile_no\", \"\"), (\"phoneNo\", \"\"), (\"loggedInPhoneNumber\", \"\"), (\"shipping_phone\", \"\"), (\"customer_mobile\", \"\"), (\"cardnumber\", \"\"), (\"card_number\", \"\"), (\"cardno\", \"\"), (\"card_no\", \"\"), (\"cardNumber\", \"\"), (\"cardNo\", \"\"), (\"ccnum\", \"\"), (\"ccnumber\", \"\"), (\"cc_number\", \"\"), (\"cc_num\", \"\"), (\"ccexpyr\", \"\"), (\"cc_expyr\", \"\"), (\"cc_exp_yr\", \"\"), (\"expyr\", \"\"), (\"exp_yr\", \"\"), (\"expiry\", \"\"), (\"expiry_year\", \"\"), (\"expiryear\", \"\"), (\"expiryyear\", \"\"), (\"expiryyr\", \"\"), (\"exp_year\", \"\"), (\"expyear\", \"\"), (\"cardexpyr\", \"\"), (\"card_expyr\", \"\"), (\"ccexpmon\", \"\"), (\"cc_expmon\", \"\"), (\"cc_exp_mon\", \"\"), (\"expmon\", \"\"), (\"exp_mon\", \"\"), (\"expiry_month\", \"\"), (\"expirymonth\", \"\"), (\"expmonth\", \"\"), (\"exp_month\", \"\"), (\"cardexpmon\", \"\"), (\"card_expmon\", \"\"), (\"cvv\", \"\"), (\"ccvv\", \"\"), (\"cardcvv\", \"\"), (\"card_cvv\", \"\"), (\"ccname\", \"\"), (\"cardToken\", \"\"), (\"card_token\", \"\"), (\"store_card_token\", \"\"), (\"stored_card_token\", \"\"), (\"account\", \"\"), (\"accountNo\", \"\"), (\"account_no\", \"\"), (\"accountId\", \"\"), (\"account_id\", \"\"), (\"accountNumber\", \"\"), (\"account_number\", \"\"), (\"accountNum\", \"\"), (\"payerVpa\", \"\"), (\"payeeVpa\", \"\"), (\"fullAccountNo\", \"\"), (\"merchantvpa\", \"\"), (\"merchId\", \"\"), (\"merchChanId\", \"\"), (\"unqCustId\", \"\"), (\"vpa\", \"\"), (\"balance\", \"\"), (\"bal\", \"\"), (\"otp\", \"\"), (\"mpin\", \"\"), (\"hash\", \"\"), (\"hashString\", \"\"), (\"hash_string\", \"\"), (\"checkSum\", \"\"), (\"atmpinFormat\", \"\"), (\"merchantchannelid\", \"\"), (\"submerchantid\", \"\"), (\"name\", \"\"), (\"accRefNumber\", \"\"), (\"virtualAddress\", \"\"), (\"virtual_address\", \"\"), (\"merchantauthtoken\", \"\"), (\"mcc\", \"\"), (\"merchantId\", \"\"), (\"beneficiaryAccountNumber\", \"\"), (\"beneficiaryAccount\", \"\"), (\"creditAccountNumber\", \"\"), (\"credit_account_number\", \"\"), (\"email\", \"\"), (\"emailId\", \"\"), (\"bank_ref_no\", \"\"), (\"token\", \"\"), (\"panNumber\", \"\"), (\"pan_number\", \"\"), (\"nameOnCard\", \"\"), (\"name_on_card\", \"\"), (\"requestIp\", \"\"), (\"request_ip\", \"\"), (\"walletUrn\", \"\"), (\"wallet_urn\", \"\"), (\"walletURN\", \"\"), (\"urn\", \"\"), (\"cardUrn\", \"\"), (\"card_urn\", \"\"), (\"sodexoSourceId\", \"\"), (\"sodexo_source_id\", \"\"), (\"sourceId\", \"\"), (\"source_id\", \"\"), (\"newMpin\", \"\"), (\"new_mpin\", \"\")]"
+    },
+    {
+      "filePath": "\/Users\/shubham.garg\/Documents\/PayU\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
+      "kind": "Array",
+      "offset": 5964,
+      "length": 179,
+      "value": "[\"address.name\", \"address.addressline1\", \"address.address_line_1\", \"address.state\", \"address.city\", \"address.country\", \"address.zipcode\", \"address.zip_code\"]"
+    },
+    {
+      "filePath": "\/Users\/shubham.garg\/Documents\/PayU\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/PublicFiles\/PayUAnalyticsConfig.swift",
       "kind": "IntegerLiteral",
       "offset": 189,
       "length": 14,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/amit.salaria\/Documents\/Gitlab\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/PublicFiles\/PayUAnalyticsConfig.swift",
+      "filePath": "\/Users\/shubham.garg\/Documents\/PayU\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/PublicFiles\/PayUAnalyticsConfig.swift",
       "kind": "IntegerLiteral",
       "offset": 213,
       "length": 15,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/amit.salaria\/Documents\/Gitlab\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/PublicFiles\/PayUAnalyticsConfig.swift",
+      "filePath": "\/Users\/shubham.garg\/Documents\/PayU\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/PublicFiles\/PayUAnalyticsConfig.swift",
       "kind": "IntegerLiteral",
       "offset": 846,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/amit.salaria\/Documents\/Gitlab\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/PublicFiles\/PayUAnalyticsConfig.swift",
+      "filePath": "\/Users\/shubham.garg\/Documents\/PayU\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/PublicFiles\/PayUAnalyticsConfig.swift",
       "kind": "BooleanLiteral",
       "offset": 1079,
       "length": 4,
       "value": "true"
+    },
+    {
+      "filePath": "\/Users\/shubham.garg\/Documents\/PayU\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Utils\/PayUAnalyticsUtils.swift",
+      "kind": "IntegerLiteral",
+      "offset": 394,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/shubham.garg\/Documents\/PayU\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Utils\/PayUAnalyticsUtils.swift",
+      "kind": "StringLiteral",
+      "offset": 617,
+      "length": 3,
+      "value": "\"|\""
+    },
+    {
+      "filePath": "\/Users\/shubham.garg\/Documents\/PayU\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Utils\/PayUAnalyticsUtils.swift",
+      "kind": "StringLiteral",
+      "offset": 722,
+      "length": 55,
+      "value": "\"(\"(?:\""
+    },
+    {
+      "filePath": "\/Users\/shubham.garg\/Documents\/PayU\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Utils\/PayUAnalyticsUtils.swift",
+      "kind": "StringLiteral",
+      "offset": 749,
+      "length": 1,
+      "value": "\")\"\\s*:\\s*\")([^\"]*)(\")\""
+    },
+    {
+      "filePath": "\/Users\/shubham.garg\/Documents\/PayU\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Utils\/PayUAnalyticsUtils.swift",
+      "kind": "StringLiteral",
+      "offset": 969,
+      "length": 75,
+      "value": "\"(\\\\\"(?:\""
+    },
+    {
+      "filePath": "\/Users\/shubham.garg\/Documents\/PayU\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Utils\/PayUAnalyticsUtils.swift",
+      "kind": "StringLiteral",
+      "offset": 1000,
+      "length": 1,
+      "value": "\")\\\\\"\\s*:\\s*\\\\\")([^\\\\\"]*)(\\\\\")\""
+    },
+    {
+      "filePath": "\/Users\/shubham.garg\/Documents\/PayU\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Utils\/PayUAnalyticsUtils.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4115,
+      "length": 1,
+      "value": "0"
     }
   ]
 }
