@@ -172,38 +172,10 @@
         "conformances": [
           {
             "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Equatable",
-            "printedName": "Equatable",
-            "usr": "s:SQ",
-            "mangledName": "$sSQ"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Hashable",
-            "printedName": "Hashable",
-            "usr": "s:SH",
-            "mangledName": "$sSH"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CVarArg",
-            "printedName": "CVarArg",
-            "usr": "s:s7CVarArgP",
-            "mangledName": "$ss7CVarArgP"
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
           },
           {
             "kind": "Conformance",
@@ -214,10 +186,24 @@
           },
           {
             "kind": "Conformance",
-            "name": "_KeyValueCodingAndObserving",
-            "printedName": "_KeyValueCodingAndObserving",
-            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
-            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
           },
           {
             "kind": "Conformance",
@@ -228,10 +214,24 @@
           },
           {
             "kind": "Conformance",
-            "name": "CustomDebugStringConvertible",
-            "printedName": "CustomDebugStringConvertible",
-            "usr": "s:s28CustomDebugStringConvertibleP",
-            "mangledName": "$ss28CustomDebugStringConvertibleP"
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
           }
         ]
       },
@@ -485,17 +485,17 @@
           },
           {
             "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          },
-          {
-            "kind": "Conformance",
             "name": "Equatable",
             "printedName": "Equatable",
             "usr": "s:SQ",
             "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
           },
           {
             "kind": "Conformance",
@@ -1478,38 +1478,10 @@
         "conformances": [
           {
             "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Equatable",
-            "printedName": "Equatable",
-            "usr": "s:SQ",
-            "mangledName": "$sSQ"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Hashable",
-            "printedName": "Hashable",
-            "usr": "s:SH",
-            "mangledName": "$sSH"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CVarArg",
-            "printedName": "CVarArg",
-            "usr": "s:s7CVarArgP",
-            "mangledName": "$ss7CVarArgP"
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
           },
           {
             "kind": "Conformance",
@@ -1520,10 +1492,24 @@
           },
           {
             "kind": "Conformance",
-            "name": "_KeyValueCodingAndObserving",
-            "printedName": "_KeyValueCodingAndObserving",
-            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
-            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
           },
           {
             "kind": "Conformance",
@@ -1534,10 +1520,24 @@
           },
           {
             "kind": "Conformance",
-            "name": "CustomDebugStringConvertible",
-            "printedName": "CustomDebugStringConvertible",
-            "usr": "s:s28CustomDebugStringConvertibleP",
-            "mangledName": "$ss28CustomDebugStringConvertibleP"
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
           }
         ]
       },
@@ -1918,6 +1918,20 @@
       "value": "\"POST\""
     },
     {
+      "filePath": "\/Users\/amit.salaria\/Documents\/Gitlab\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
+      "kind": "Dictionary",
+      "offset": 3347,
+      "length": 2482,
+      "value": "[(\"mobilenumber\", \"\"), (\"mobileno\", \"\"), (\"phoneno\", \"\"), (\"phone\", \"\"), (\"mobile\", \"\"), (\"customerMobile\", \"\"), (\"phoneNumber\", \"\"), (\"phone_number\", \"\"), (\"mobileNumber\", \"\"), (\"mobile_number\", \"\"), (\"mobileNo\", \"\"), (\"mobile_no\", \"\"), (\"phoneNo\", \"\"), (\"loggedInPhoneNumber\", \"\"), (\"shipping_phone\", \"\"), (\"customer_mobile\", \"\"), (\"cardnumber\", \"\"), (\"card_number\", \"\"), (\"cardno\", \"\"), (\"card_no\", \"\"), (\"cardNumber\", \"\"), (\"cardNo\", \"\"), (\"ccnum\", \"\"), (\"ccnumber\", \"\"), (\"cc_number\", \"\"), (\"cc_num\", \"\"), (\"ccexpyr\", \"\"), (\"cc_expyr\", \"\"), (\"cc_exp_yr\", \"\"), (\"expyr\", \"\"), (\"exp_yr\", \"\"), (\"expiry\", \"\"), (\"expiry_year\", \"\"), (\"expiryear\", \"\"), (\"expiryyear\", \"\"), (\"expiryyr\", \"\"), (\"exp_year\", \"\"), (\"expyear\", \"\"), (\"cardexpyr\", \"\"), (\"card_expyr\", \"\"), (\"ccexpmon\", \"\"), (\"cc_expmon\", \"\"), (\"cc_exp_mon\", \"\"), (\"expmon\", \"\"), (\"exp_mon\", \"\"), (\"expiry_month\", \"\"), (\"expirymonth\", \"\"), (\"expmonth\", \"\"), (\"exp_month\", \"\"), (\"cardexpmon\", \"\"), (\"card_expmon\", \"\"), (\"cvv\", \"\"), (\"ccvv\", \"\"), (\"cardcvv\", \"\"), (\"card_cvv\", \"\"), (\"ccname\", \"\"), (\"cardToken\", \"\"), (\"card_token\", \"\"), (\"store_card_token\", \"\"), (\"stored_card_token\", \"\"), (\"account\", \"\"), (\"accountNo\", \"\"), (\"account_no\", \"\"), (\"accountId\", \"\"), (\"account_id\", \"\"), (\"accountNumber\", \"\"), (\"account_number\", \"\"), (\"accountNum\", \"\"), (\"payerVpa\", \"\"), (\"payeeVpa\", \"\"), (\"fullAccountNo\", \"\"), (\"merchantvpa\", \"\"), (\"merchId\", \"\"), (\"merchChanId\", \"\"), (\"unqCustId\", \"\"), (\"vpa\", \"\"), (\"balance\", \"\"), (\"bal\", \"\"), (\"otp\", \"\"), (\"mpin\", \"\"), (\"hash\", \"\"), (\"hashString\", \"\"), (\"hash_string\", \"\"), (\"checkSum\", \"\"), (\"atmpinFormat\", \"\"), (\"merchantchannelid\", \"\"), (\"submerchantid\", \"\"), (\"name\", \"\"), (\"accRefNumber\", \"\"), (\"virtualAddress\", \"\"), (\"virtual_address\", \"\"), (\"merchantauthtoken\", \"\"), (\"mcc\", \"\"), (\"merchantId\", \"\"), (\"beneficiaryAccountNumber\", \"\"), (\"beneficiaryAccount\", \"\"), (\"creditAccountNumber\", \"\"), (\"credit_account_number\", \"\"), (\"email\", \"\"), (\"emailId\", \"\"), (\"bank_ref_no\", \"\"), (\"token\", \"\"), (\"panNumber\", \"\"), (\"pan_number\", \"\"), (\"nameOnCard\", \"\"), (\"name_on_card\", \"\"), (\"requestIp\", \"\"), (\"request_ip\", \"\"), (\"walletUrn\", \"\"), (\"wallet_urn\", \"\"), (\"walletURN\", \"\"), (\"urn\", \"\"), (\"cardUrn\", \"\"), (\"card_urn\", \"\"), (\"sodexoSourceId\", \"\"), (\"sodexo_source_id\", \"\"), (\"sourceId\", \"\"), (\"source_id\", \"\"), (\"newMpin\", \"\"), (\"new_mpin\", \"\")]"
+    },
+    {
+      "filePath": "\/Users\/amit.salaria\/Documents\/Gitlab\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Constant\/PayUAnalyticsConstant.swift",
+      "kind": "Array",
+      "offset": 5964,
+      "length": 179,
+      "value": "[\"address.name\", \"address.addressline1\", \"address.address_line_1\", \"address.state\", \"address.city\", \"address.country\", \"address.zipcode\", \"address.zip_code\"]"
+    },
+    {
       "filePath": "\/Users\/amit.salaria\/Documents\/Gitlab\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/PublicFiles\/PayUAnalyticsConfig.swift",
       "kind": "IntegerLiteral",
       "offset": 189,
@@ -1944,6 +1958,55 @@
       "offset": 1079,
       "length": 4,
       "value": "true"
+    },
+    {
+      "filePath": "\/Users\/amit.salaria\/Documents\/Gitlab\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Utils\/PayUAnalyticsUtils.swift",
+      "kind": "IntegerLiteral",
+      "offset": 394,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/amit.salaria\/Documents\/Gitlab\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Utils\/PayUAnalyticsUtils.swift",
+      "kind": "StringLiteral",
+      "offset": 617,
+      "length": 3,
+      "value": "\"|\""
+    },
+    {
+      "filePath": "\/Users\/amit.salaria\/Documents\/Gitlab\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Utils\/PayUAnalyticsUtils.swift",
+      "kind": "StringLiteral",
+      "offset": 722,
+      "length": 55,
+      "value": "\"(\"(?:\""
+    },
+    {
+      "filePath": "\/Users\/amit.salaria\/Documents\/Gitlab\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Utils\/PayUAnalyticsUtils.swift",
+      "kind": "StringLiteral",
+      "offset": 749,
+      "length": 1,
+      "value": "\")\"\\s*:\\s*\")([^\"]*)(\")\""
+    },
+    {
+      "filePath": "\/Users\/amit.salaria\/Documents\/Gitlab\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Utils\/PayUAnalyticsUtils.swift",
+      "kind": "StringLiteral",
+      "offset": 969,
+      "length": 75,
+      "value": "\"(\\\\\"(?:\""
+    },
+    {
+      "filePath": "\/Users\/amit.salaria\/Documents\/Gitlab\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Utils\/PayUAnalyticsUtils.swift",
+      "kind": "StringLiteral",
+      "offset": 1000,
+      "length": 1,
+      "value": "\")\\\\\"\\s*:\\s*\\\\\")([^\\\\\"]*)(\\\\\")\""
+    },
+    {
+      "filePath": "\/Users\/amit.salaria\/Documents\/Gitlab\/one-payu-ui-sdk-ios\/Dependency\/payu-analytics-sdk-ios\/PayUAnalyticsKit\/Utils\/PayUAnalyticsUtils.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4115,
+      "length": 1,
+      "value": "0"
     }
   ]
 }

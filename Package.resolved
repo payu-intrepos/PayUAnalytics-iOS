@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "PayUIndia-NetworkReachability",
+        "repositoryURL": "https://github.com/payu-intrepos/PayUNetworkReachability-iOS.git",
+        "state": {
+          "branch": null,
+          "revision": "2c4e108fa7654cfca2dbb4f96f176a5788470d18",
+          "version": "2.1.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
